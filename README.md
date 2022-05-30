@@ -19,8 +19,8 @@
 
 <h2 align="left">My Stats</h2>
 <div class="onetwothree">
-    <img  width="500" style="float:left" src="https://github-readme-stats.vercel.app/api?username=jassi-71&show_icons=true&locale=en" alt="jassi-71" />
-    <img width="500" style="float:left" src="https://github-readme-streak-stats.herokuapp.com/?user=jassi-71&" alt="jassi-71" />
+    <img  width="400" style="float:left" src="https://github-readme-stats.vercel.app/api?username=jassi-71&show_icons=true&locale=en" alt="jassi-71" />
+    <img width="400" style="float:left" src="https://github-readme-streak-stats.herokuapp.com/?user=jassi-71&" alt="jassi-71" />
 </div>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jassi-71&show_icons=true&locale=en&layout=compact" alt="jassi-71" width = 450px/></p>
   
